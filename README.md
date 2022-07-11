@@ -21,6 +21,6 @@ After installing the softwares , you need to do npm install to install the packa
 
 ### Start 
 
-Run node reviews.js
-Run node products.js
-Run node gateway.js
+1. Run node reviews.js
+2. Run node products.js
+3. Run node gateway.js
